@@ -1,11 +1,11 @@
 # 按钮控制舵机转动
 
 ## 目录
-1.[关于使用按钮控制舵机](#Use buttons to control steering gear)
+1.[Use buttons to control steering gear](#Use buttons to control steering gear)
 
-2.[功能介绍](#fuction introduction)
+2.[fuction introduction](#fuction introduction)
 
-3.[使用版本](#the version of arduino)
+3.[the version of arduino](#the version of arduino)
 
 ---------------------------------------------------
 ##Use buttons to control steering gear
