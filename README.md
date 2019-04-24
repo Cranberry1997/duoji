@@ -1,7 +1,7 @@
 # Swing-steering-gear
 
 ## Table of Contents
-1.[at Swing-steering-gear](#about-swing-steering-gear)
+1.[at Swing-steering-gear](#abut-swing-steering-gear)
 
 2.[function](#function)
 
